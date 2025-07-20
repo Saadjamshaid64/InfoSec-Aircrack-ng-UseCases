@@ -9,12 +9,7 @@ Each use case includes detailed steps, Linux commands, screenshots, and real-wor
 
 
 ## 🧠 Tools Used
-Aircrack-ng Suite
-
-Airmon-ng / Airodump-ng / Aireplay-ng
-
-Kali Linux
-
-Wordlist (dictionary)
-
-Virtualized Wi-Fi lab setup
+- Aircrack-ng Suite
+- Airmon-ng / Airodump-ng / Aireplay-ng
+- Kali Linux
+- Wordlist (dictionary)
