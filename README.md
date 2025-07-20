@@ -8,7 +8,7 @@ This project demonstrates two real-world Wi-Fi password cracking scenarios using
 Each use case includes detailed steps, Linux commands, screenshots, and real-world testing using monitor mode and injection techniques.
 
 
-### 🧠 Tools Used
+## 🧠 Tools Used
 Aircrack-ng Suite
 
 Airmon-ng / Airodump-ng / Aireplay-ng
