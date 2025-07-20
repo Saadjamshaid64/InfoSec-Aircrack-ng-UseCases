@@ -19,9 +19,11 @@ Each use case includes detailed steps, Linux commands, screenshots, and real-wor
 - ✅ Two documented use cases with successful Wi-Fi password cracking
 - ✅ MITRE ATT&CK and OSI Layer mapping
 - ✅ Proposed mitigation strategies (WPA3, MAC filtering, deauth detection)
-
+***
 📍 Developed as part of the Information Security course at
 University of Management and Technology (UMT), Sialkot
-
+***
+## 📬 Contact
+Feel free to connect or reach out on LinkedIn
 ***
 🎯 **Keep Building & Keep Learning!** 🚀✨
