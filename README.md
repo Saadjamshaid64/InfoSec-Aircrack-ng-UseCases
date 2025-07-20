@@ -13,3 +13,9 @@ Each use case includes detailed steps, Linux commands, screenshots, and real-wor
 - Airmon-ng / Airodump-ng / Aireplay-ng
 - Kali Linux
 - Wordlist (dictionary)
+
+## 📁 Project Contents
+- ✅ Complete PDF Report with commands and screenshots
+- ✅ Two documented use cases with successful Wi-Fi password cracking
+- ✅ MITRE ATT&CK and OSI Layer mapping
+- ✅ Proposed mitigation strategies (WPA3, MAC filtering, deauth detection)
