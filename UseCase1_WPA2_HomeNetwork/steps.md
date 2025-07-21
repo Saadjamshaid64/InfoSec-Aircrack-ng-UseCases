@@ -85,3 +85,9 @@ interfere with packet capture and injection.
 **Step12:** Check if the entered password is working or not.
 
 ping google.com: It is used to check if your internet connection is working and to test network reachability.
+
+<img width="1601" height="901" alt="Picture1" src="https://github.com/user-attachments/assets/370ede24-5558-412a-a353-ce0673d3a6ff" />
+
+![Picture2](https://github.com/user-attachments/assets/09715684-ad9e-44d1-88d6-d20588f9ea98)
+
+
